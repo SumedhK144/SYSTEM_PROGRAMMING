@@ -1,0 +1,4 @@
+After each write is complete, the current file offset in the file table entry is
+incremented by the number of bytes written. If this causes the current file offset to
+exceed the limit of file size in the inode,then it allocates new block for storage 
+and inode entries will update like table of contents and file size.
