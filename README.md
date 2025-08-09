@@ -1,2 +1,1 @@
-I Am Learning "Design of the UNIX Operating System" by Maurice J. Bach
-and Side by Side I also Implementing System calls using book "Advanced Programming in the Unix Environment" by W. Richard Stevens 
+I am learning Design of the UNIX Operating System by Maurice J. Bach, and side by side, I am also implementing system calls using the book Advanced Programming in the UNIX Environment by W. Richard Stevens.
